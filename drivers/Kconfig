@@ -245,4 +245,7 @@ source "drivers/cdx/Kconfig"
 
 source "drivers/dpll/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
